@@ -1,0 +1,2 @@
+git checkout -b new-branch      # create and switch
+git push -u origin new-branch   # push to remote
